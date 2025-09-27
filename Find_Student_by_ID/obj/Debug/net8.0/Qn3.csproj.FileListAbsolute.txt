@@ -1,0 +1,14 @@
+C:\Users\Sameena S\Source\exam\Qn3\bin\Debug\net8.0\Qn3.exe
+C:\Users\Sameena S\Source\exam\Qn3\bin\Debug\net8.0\Qn3.deps.json
+C:\Users\Sameena S\Source\exam\Qn3\bin\Debug\net8.0\Qn3.runtimeconfig.json
+C:\Users\Sameena S\Source\exam\Qn3\bin\Debug\net8.0\Qn3.dll
+C:\Users\Sameena S\Source\exam\Qn3\bin\Debug\net8.0\Qn3.pdb
+C:\Users\Sameena S\Source\exam\Qn3\obj\Debug\net8.0\Qn3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sameena S\Source\exam\Qn3\obj\Debug\net8.0\Qn3.AssemblyInfoInputs.cache
+C:\Users\Sameena S\Source\exam\Qn3\obj\Debug\net8.0\Qn3.AssemblyInfo.cs
+C:\Users\Sameena S\Source\exam\Qn3\obj\Debug\net8.0\Qn3.csproj.CoreCompileInputs.cache
+C:\Users\Sameena S\Source\exam\Qn3\obj\Debug\net8.0\Qn3.dll
+C:\Users\Sameena S\Source\exam\Qn3\obj\Debug\net8.0\refint\Qn3.dll
+C:\Users\Sameena S\Source\exam\Qn3\obj\Debug\net8.0\Qn3.pdb
+C:\Users\Sameena S\Source\exam\Qn3\obj\Debug\net8.0\Qn3.genruntimeconfig.cache
+C:\Users\Sameena S\Source\exam\Qn3\obj\Debug\net8.0\ref\Qn3.dll

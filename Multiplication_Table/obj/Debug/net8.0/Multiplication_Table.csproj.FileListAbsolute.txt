@@ -1,0 +1,14 @@
+C:\Users\Sameena S\Source\exam\Multiplication_Table\bin\Debug\net8.0\Multiplication_Table.exe
+C:\Users\Sameena S\Source\exam\Multiplication_Table\bin\Debug\net8.0\Multiplication_Table.deps.json
+C:\Users\Sameena S\Source\exam\Multiplication_Table\bin\Debug\net8.0\Multiplication_Table.runtimeconfig.json
+C:\Users\Sameena S\Source\exam\Multiplication_Table\bin\Debug\net8.0\Multiplication_Table.dll
+C:\Users\Sameena S\Source\exam\Multiplication_Table\bin\Debug\net8.0\Multiplication_Table.pdb
+C:\Users\Sameena S\Source\exam\Multiplication_Table\obj\Debug\net8.0\Multiplication_Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sameena S\Source\exam\Multiplication_Table\obj\Debug\net8.0\Multiplication_Table.AssemblyInfoInputs.cache
+C:\Users\Sameena S\Source\exam\Multiplication_Table\obj\Debug\net8.0\Multiplication_Table.AssemblyInfo.cs
+C:\Users\Sameena S\Source\exam\Multiplication_Table\obj\Debug\net8.0\Multiplication_Table.csproj.CoreCompileInputs.cache
+C:\Users\Sameena S\Source\exam\Multiplication_Table\obj\Debug\net8.0\Multiplication_Table.dll
+C:\Users\Sameena S\Source\exam\Multiplication_Table\obj\Debug\net8.0\refint\Multiplication_Table.dll
+C:\Users\Sameena S\Source\exam\Multiplication_Table\obj\Debug\net8.0\Multiplication_Table.pdb
+C:\Users\Sameena S\Source\exam\Multiplication_Table\obj\Debug\net8.0\Multiplication_Table.genruntimeconfig.cache
+C:\Users\Sameena S\Source\exam\Multiplication_Table\obj\Debug\net8.0\ref\Multiplication_Table.dll

@@ -1,0 +1,14 @@
+C:\Users\Sameena S\Source\exam\Find_Student_by_ID\bin\Debug\net8.0\Find_Student_by_ID.exe
+C:\Users\Sameena S\Source\exam\Find_Student_by_ID\bin\Debug\net8.0\Find_Student_by_ID.deps.json
+C:\Users\Sameena S\Source\exam\Find_Student_by_ID\bin\Debug\net8.0\Find_Student_by_ID.runtimeconfig.json
+C:\Users\Sameena S\Source\exam\Find_Student_by_ID\bin\Debug\net8.0\Find_Student_by_ID.dll
+C:\Users\Sameena S\Source\exam\Find_Student_by_ID\bin\Debug\net8.0\Find_Student_by_ID.pdb
+C:\Users\Sameena S\Source\exam\Find_Student_by_ID\obj\Debug\net8.0\Find_Student_by_ID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sameena S\Source\exam\Find_Student_by_ID\obj\Debug\net8.0\Find_Student_by_ID.AssemblyInfoInputs.cache
+C:\Users\Sameena S\Source\exam\Find_Student_by_ID\obj\Debug\net8.0\Find_Student_by_ID.AssemblyInfo.cs
+C:\Users\Sameena S\Source\exam\Find_Student_by_ID\obj\Debug\net8.0\Find_Student_by_ID.csproj.CoreCompileInputs.cache
+C:\Users\Sameena S\Source\exam\Find_Student_by_ID\obj\Debug\net8.0\Find_Student_by_ID.dll
+C:\Users\Sameena S\Source\exam\Find_Student_by_ID\obj\Debug\net8.0\refint\Find_Student_by_ID.dll
+C:\Users\Sameena S\Source\exam\Find_Student_by_ID\obj\Debug\net8.0\Find_Student_by_ID.pdb
+C:\Users\Sameena S\Source\exam\Find_Student_by_ID\obj\Debug\net8.0\Find_Student_by_ID.genruntimeconfig.cache
+C:\Users\Sameena S\Source\exam\Find_Student_by_ID\obj\Debug\net8.0\ref\Find_Student_by_ID.dll
